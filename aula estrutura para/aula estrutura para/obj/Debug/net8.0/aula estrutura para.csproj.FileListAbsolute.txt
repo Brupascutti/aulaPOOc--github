@@ -1,0 +1,14 @@
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\aula estrutura para\aula estrutura para\bin\Debug\net8.0\aula estrutura para.exe
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\aula estrutura para\aula estrutura para\bin\Debug\net8.0\aula estrutura para.deps.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\aula estrutura para\aula estrutura para\bin\Debug\net8.0\aula estrutura para.runtimeconfig.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\aula estrutura para\aula estrutura para\bin\Debug\net8.0\aula estrutura para.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\aula estrutura para\aula estrutura para\bin\Debug\net8.0\aula estrutura para.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\aula estrutura para\aula estrutura para\obj\Debug\net8.0\aula estrutura para.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\aula estrutura para\aula estrutura para\obj\Debug\net8.0\aula estrutura para.AssemblyInfoInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\aula estrutura para\aula estrutura para\obj\Debug\net8.0\aula estrutura para.AssemblyInfo.cs
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\aula estrutura para\aula estrutura para\obj\Debug\net8.0\aula estrutura para.csproj.CoreCompileInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\aula estrutura para\aula estrutura para\obj\Debug\net8.0\aula estrutura para.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\aula estrutura para\aula estrutura para\obj\Debug\net8.0\refint\aula estrutura para.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\aula estrutura para\aula estrutura para\obj\Debug\net8.0\aula estrutura para.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\aula estrutura para\aula estrutura para\obj\Debug\net8.0\aula estrutura para.genruntimeconfig.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\aula estrutura para\aula estrutura para\obj\Debug\net8.0\ref\aula estrutura para.dll

@@ -1,0 +1,14 @@
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\cursoPOO1\cursoPOO1\bin\Debug\net8.0\cursoPOO1.exe
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\cursoPOO1\cursoPOO1\bin\Debug\net8.0\cursoPOO1.deps.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\cursoPOO1\cursoPOO1\bin\Debug\net8.0\cursoPOO1.runtimeconfig.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\cursoPOO1\cursoPOO1\bin\Debug\net8.0\cursoPOO1.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\cursoPOO1\cursoPOO1\bin\Debug\net8.0\cursoPOO1.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\cursoPOO1\cursoPOO1\obj\Debug\net8.0\cursoPOO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\cursoPOO1\cursoPOO1\obj\Debug\net8.0\cursoPOO1.AssemblyInfoInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\cursoPOO1\cursoPOO1\obj\Debug\net8.0\cursoPOO1.AssemblyInfo.cs
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\cursoPOO1\cursoPOO1\obj\Debug\net8.0\cursoPOO1.csproj.CoreCompileInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\cursoPOO1\cursoPOO1\obj\Debug\net8.0\cursoPOO1.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\cursoPOO1\cursoPOO1\obj\Debug\net8.0\refint\cursoPOO1.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\cursoPOO1\cursoPOO1\obj\Debug\net8.0\cursoPOO1.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\cursoPOO1\cursoPOO1\obj\Debug\net8.0\cursoPOO1.genruntimeconfig.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\cursoPOO1\cursoPOO1\obj\Debug\net8.0\ref\cursoPOO1.dll

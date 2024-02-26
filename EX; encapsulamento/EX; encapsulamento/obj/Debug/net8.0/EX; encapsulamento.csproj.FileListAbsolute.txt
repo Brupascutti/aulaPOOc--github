@@ -1,0 +1,14 @@
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\EX; encapsulamento\EX; encapsulamento\bin\Debug\net8.0\EX; encapsulamento.exe
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\EX; encapsulamento\EX; encapsulamento\bin\Debug\net8.0\EX; encapsulamento.deps.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\EX; encapsulamento\EX; encapsulamento\bin\Debug\net8.0\EX; encapsulamento.runtimeconfig.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\EX; encapsulamento\EX; encapsulamento\bin\Debug\net8.0\EX; encapsulamento.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\EX; encapsulamento\EX; encapsulamento\bin\Debug\net8.0\EX; encapsulamento.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\EX; encapsulamento\EX; encapsulamento\obj\Debug\net8.0\EX; encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\EX; encapsulamento\EX; encapsulamento\obj\Debug\net8.0\EX; encapsulamento.AssemblyInfoInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\EX; encapsulamento\EX; encapsulamento\obj\Debug\net8.0\EX; encapsulamento.AssemblyInfo.cs
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\EX; encapsulamento\EX; encapsulamento\obj\Debug\net8.0\EX; encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\EX; encapsulamento\EX; encapsulamento\obj\Debug\net8.0\EX; encapsulamento.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\EX; encapsulamento\EX; encapsulamento\obj\Debug\net8.0\refint\EX; encapsulamento.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\EX; encapsulamento\EX; encapsulamento\obj\Debug\net8.0\EX; encapsulamento.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\EX; encapsulamento\EX; encapsulamento\obj\Debug\net8.0\EX; encapsulamento.genruntimeconfig.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\EX; encapsulamento\EX; encapsulamento\obj\Debug\net8.0\ref\EX; encapsulamento.dll

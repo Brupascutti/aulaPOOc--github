@@ -1,0 +1,14 @@
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\oop3\oop3\bin\Debug\net8.0\oop3.exe
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\oop3\oop3\bin\Debug\net8.0\oop3.deps.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\oop3\oop3\bin\Debug\net8.0\oop3.runtimeconfig.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\oop3\oop3\bin\Debug\net8.0\oop3.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\oop3\oop3\bin\Debug\net8.0\oop3.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\oop3\oop3\obj\Debug\net8.0\oop3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\oop3\oop3\obj\Debug\net8.0\oop3.AssemblyInfoInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\oop3\oop3\obj\Debug\net8.0\oop3.AssemblyInfo.cs
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\oop3\oop3\obj\Debug\net8.0\oop3.csproj.CoreCompileInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\oop3\oop3\obj\Debug\net8.0\oop3.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\oop3\oop3\obj\Debug\net8.0\refint\oop3.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\oop3\oop3\obj\Debug\net8.0\oop3.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\oop3\oop3\obj\Debug\net8.0\oop3.genruntimeconfig.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\oop3\oop3\obj\Debug\net8.0\ref\oop3.dll

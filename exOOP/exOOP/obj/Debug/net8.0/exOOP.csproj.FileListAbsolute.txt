@@ -1,0 +1,14 @@
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\exOOP\exOOP\obj\Debug\net8.0\exOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\exOOP\exOOP\obj\Debug\net8.0\exOOP.AssemblyInfoInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\exOOP\exOOP\obj\Debug\net8.0\exOOP.AssemblyInfo.cs
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\exOOP\exOOP\obj\Debug\net8.0\exOOP.csproj.CoreCompileInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\exOOP\exOOP\bin\Debug\net8.0\exOOP.exe
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\exOOP\exOOP\bin\Debug\net8.0\exOOP.deps.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\exOOP\exOOP\bin\Debug\net8.0\exOOP.runtimeconfig.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\exOOP\exOOP\bin\Debug\net8.0\exOOP.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\exOOP\exOOP\bin\Debug\net8.0\exOOP.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\exOOP\exOOP\obj\Debug\net8.0\exOOP.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\exOOP\exOOP\obj\Debug\net8.0\refint\exOOP.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\exOOP\exOOP\obj\Debug\net8.0\exOOP.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\exOOP\exOOP\obj\Debug\net8.0\exOOP.genruntimeconfig.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\exOOP\exOOP\obj\Debug\net8.0\ref\exOOP.dll

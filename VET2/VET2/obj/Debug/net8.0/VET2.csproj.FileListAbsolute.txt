@@ -1,0 +1,14 @@
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\VET2\VET2\bin\Debug\net8.0\VET2.exe
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\VET2\VET2\bin\Debug\net8.0\VET2.deps.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\VET2\VET2\bin\Debug\net8.0\VET2.runtimeconfig.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\VET2\VET2\bin\Debug\net8.0\VET2.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\VET2\VET2\bin\Debug\net8.0\VET2.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\VET2\VET2\obj\Debug\net8.0\VET2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\VET2\VET2\obj\Debug\net8.0\VET2.AssemblyInfoInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\VET2\VET2\obj\Debug\net8.0\VET2.AssemblyInfo.cs
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\VET2\VET2\obj\Debug\net8.0\VET2.csproj.CoreCompileInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\VET2\VET2\obj\Debug\net8.0\VET2.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\VET2\VET2\obj\Debug\net8.0\refint\VET2.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\VET2\VET2\obj\Debug\net8.0\VET2.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\VET2\VET2\obj\Debug\net8.0\VET2.genruntimeconfig.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\VET2\VET2\obj\Debug\net8.0\ref\VET2.dll

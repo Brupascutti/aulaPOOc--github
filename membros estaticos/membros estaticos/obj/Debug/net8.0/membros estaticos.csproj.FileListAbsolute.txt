@@ -1,0 +1,14 @@
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\membros estaticos\membros estaticos\obj\Debug\net8.0\membros estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\membros estaticos\membros estaticos\obj\Debug\net8.0\membros estaticos.AssemblyInfoInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\membros estaticos\membros estaticos\obj\Debug\net8.0\membros estaticos.AssemblyInfo.cs
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\membros estaticos\membros estaticos\obj\Debug\net8.0\membros estaticos.csproj.CoreCompileInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\membros estaticos\membros estaticos\bin\Debug\net8.0\membros estaticos.exe
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\membros estaticos\membros estaticos\bin\Debug\net8.0\membros estaticos.deps.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\membros estaticos\membros estaticos\bin\Debug\net8.0\membros estaticos.runtimeconfig.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\membros estaticos\membros estaticos\bin\Debug\net8.0\membros estaticos.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\membros estaticos\membros estaticos\bin\Debug\net8.0\membros estaticos.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\membros estaticos\membros estaticos\obj\Debug\net8.0\membros estaticos.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\membros estaticos\membros estaticos\obj\Debug\net8.0\refint\membros estaticos.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\membros estaticos\membros estaticos\obj\Debug\net8.0\membros estaticos.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\membros estaticos\membros estaticos\obj\Debug\net8.0\membros estaticos.genruntimeconfig.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\membros estaticos\membros estaticos\obj\Debug\net8.0\ref\membros estaticos.dll

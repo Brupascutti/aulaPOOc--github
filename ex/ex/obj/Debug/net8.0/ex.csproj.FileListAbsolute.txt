@@ -1,0 +1,14 @@
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex\ex\obj\Debug\net8.0\ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex\ex\obj\Debug\net8.0\ex.AssemblyInfoInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex\ex\obj\Debug\net8.0\ex.AssemblyInfo.cs
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex\ex\obj\Debug\net8.0\ex.csproj.CoreCompileInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex\ex\bin\Debug\net8.0\ex.exe
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex\ex\bin\Debug\net8.0\ex.deps.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex\ex\bin\Debug\net8.0\ex.runtimeconfig.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex\ex\bin\Debug\net8.0\ex.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex\ex\bin\Debug\net8.0\ex.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex\ex\obj\Debug\net8.0\ex.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex\ex\obj\Debug\net8.0\refint\ex.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex\ex\obj\Debug\net8.0\ex.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex\ex\obj\Debug\net8.0\ex.genruntimeconfig.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex\ex\obj\Debug\net8.0\ref\ex.dll

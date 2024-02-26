@@ -1,0 +1,14 @@
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\LISTA\LISTA\bin\Debug\net8.0\LISTA.exe
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\LISTA\LISTA\bin\Debug\net8.0\LISTA.deps.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\LISTA\LISTA\bin\Debug\net8.0\LISTA.runtimeconfig.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\LISTA\LISTA\bin\Debug\net8.0\LISTA.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\LISTA\LISTA\bin\Debug\net8.0\LISTA.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\LISTA\LISTA\obj\Debug\net8.0\LISTA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\LISTA\LISTA\obj\Debug\net8.0\LISTA.AssemblyInfoInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\LISTA\LISTA\obj\Debug\net8.0\LISTA.AssemblyInfo.cs
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\LISTA\LISTA\obj\Debug\net8.0\LISTA.csproj.CoreCompileInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\LISTA\LISTA\obj\Debug\net8.0\LISTA.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\LISTA\LISTA\obj\Debug\net8.0\refint\LISTA.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\LISTA\LISTA\obj\Debug\net8.0\LISTA.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\LISTA\LISTA\obj\Debug\net8.0\LISTA.genruntimeconfig.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\LISTA\LISTA\obj\Debug\net8.0\ref\LISTA.dll

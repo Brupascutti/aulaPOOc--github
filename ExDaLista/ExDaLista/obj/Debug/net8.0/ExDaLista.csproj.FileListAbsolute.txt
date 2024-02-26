@@ -1,0 +1,14 @@
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ExDaLista\ExDaLista\obj\Debug\net8.0\ExDaLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ExDaLista\ExDaLista\obj\Debug\net8.0\ExDaLista.AssemblyInfoInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ExDaLista\ExDaLista\obj\Debug\net8.0\ExDaLista.AssemblyInfo.cs
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ExDaLista\ExDaLista\obj\Debug\net8.0\ExDaLista.csproj.CoreCompileInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ExDaLista\ExDaLista\bin\Debug\net8.0\ExDaLista.exe
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ExDaLista\ExDaLista\bin\Debug\net8.0\ExDaLista.deps.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ExDaLista\ExDaLista\bin\Debug\net8.0\ExDaLista.runtimeconfig.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ExDaLista\ExDaLista\bin\Debug\net8.0\ExDaLista.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ExDaLista\ExDaLista\bin\Debug\net8.0\ExDaLista.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ExDaLista\ExDaLista\obj\Debug\net8.0\ExDaLista.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ExDaLista\ExDaLista\obj\Debug\net8.0\refint\ExDaLista.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ExDaLista\ExDaLista\obj\Debug\net8.0\ExDaLista.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ExDaLista\ExDaLista\obj\Debug\net8.0\ExDaLista.genruntimeconfig.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ExDaLista\ExDaLista\obj\Debug\net8.0\ref\ExDaLista.dll

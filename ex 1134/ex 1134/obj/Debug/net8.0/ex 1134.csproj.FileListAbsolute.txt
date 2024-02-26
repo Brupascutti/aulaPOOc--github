@@ -1,0 +1,14 @@
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex 1134\ex 1134\bin\Debug\net8.0\ex 1134.exe
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex 1134\ex 1134\bin\Debug\net8.0\ex 1134.deps.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex 1134\ex 1134\bin\Debug\net8.0\ex 1134.runtimeconfig.json
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex 1134\ex 1134\bin\Debug\net8.0\ex 1134.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex 1134\ex 1134\bin\Debug\net8.0\ex 1134.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex 1134\ex 1134\obj\Debug\net8.0\ex 1134.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex 1134\ex 1134\obj\Debug\net8.0\ex 1134.AssemblyInfoInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex 1134\ex 1134\obj\Debug\net8.0\ex 1134.AssemblyInfo.cs
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex 1134\ex 1134\obj\Debug\net8.0\ex 1134.csproj.CoreCompileInputs.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex 1134\ex 1134\obj\Debug\net8.0\ex 1134.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex 1134\ex 1134\obj\Debug\net8.0\refint\ex 1134.dll
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex 1134\ex 1134\obj\Debug\net8.0\ex 1134.pdb
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex 1134\ex 1134\obj\Debug\net8.0\ex 1134.genruntimeconfig.cache
+C:\Users\brupa\OneDrive\Área de Trabalho\cursos de TI\ex de TI\ex 1134\ex 1134\obj\Debug\net8.0\ref\ex 1134.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brupa\\OneDrive\\\u00C1rea de Trabalho\\cursos de TI\\ex de TI\\ConsoleApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{540BE21B-F6F8-4F62-AD0B-71571B4D22E7}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\brupa\\onedrive\\\u00E1rea de trabalho\\cursos de ti\\ex de ti\\consoleapp4\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540BE21B-F6F8-4F62-AD0B-71571B4D22E7}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brupa\\OneDrive\\\u00C1rea de Trabalho\\cursos de TI\\ex de TI\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Program.cs",
+              "ToolTip": "C:\\Users\\brupa\\OneDrive\\\u00C1rea de Trabalho\\cursos de TI\\ex de TI\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "ConsoleApp4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:58:08.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
